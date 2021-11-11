@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F1C90B78-DCB4-4CC2-8277-FEBC9A1B4D8F"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "627720B9-7B35-40B9-9A47-9613B1B8F912"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CustomLoginDemo/View Controllers/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "HomeViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "627720B9-7B35-40B9-9A47-9613B1B8F912 - d1db008edf73f2e0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CustomLoginDemo.HomeViewController.ref.getter : __C.FIRDocumentReference"
+                  moduleName = "CustomLoginDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mingyupark/Downloads/CWC_FirebaseAuth_CustomLoginDemo/CustomLoginDemo/CustomLoginDemo/View%20Controllers/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "627720B9-7B35-40B9-9A47-9613B1B8F912 - 45d30f8ad6932aee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CustomLoginDemo.HomeViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; CustomLoginDemo.HomeViewController"
+                  moduleName = "CustomLoginDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mingyupark/Downloads/CWC_FirebaseAuth_CustomLoginDemo/CustomLoginDemo/CustomLoginDemo/View%20Controllers/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "627720B9-7B35-40B9-9A47-9613B1B8F912 - c55feb8036000722"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CustomLoginDemo.HomeViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;CustomLoginDemo.HomeViewController&gt;"
+                  moduleName = "CustomLoginDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mingyupark/Downloads/CWC_FirebaseAuth_CustomLoginDemo/CustomLoginDemo/CustomLoginDemo/View%20Controllers/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "96">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
